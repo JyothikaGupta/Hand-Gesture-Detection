@@ -1,5 +1,21 @@
 # Hand-Gesture-Detection
 
+Gesture recognition is an active research field in Human-Computer Interaction technology. It has many applications in virtual environment control and sign language translation, robot control, or music creation.
+
+**Prerequisites**
+1. Python 
+2. OpenCV 
+3. MediaPipe
+4. Tensorflow 
+5. Numpy – 1.19.3
+
+**Steps to solve the project**
+1. Import necessary packages.
+2. Initialize models.
+3. Read frames from a webcam.
+4. Detect hand keypoints.
+5. Recognize hand gestures.
+
 **Below given are the output screens of the project**
 
 <img width="276" alt="image" src="https://github.com/JyothikaGupta/Hand-Gesture-Detection/assets/109058628/2e181f94-de65-4d9d-952a-822cf488a482">
